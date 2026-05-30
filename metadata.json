@@ -1,0 +1,6 @@
+{
+  "name": "Evaluador de Agentes IA y Gestión del Conocimiento",
+  "description": "Herramienta de auditoría algorítmica y gestión del conocimiento para evaluar la madurez, adopción y brechas de agentes de IA en organizaciones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
